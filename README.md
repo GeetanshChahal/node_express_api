@@ -1,5 +1,6 @@
 # node_express_api
 
+* Must install node_modules folder to run it
 * You can test API calls using Postman
 * All the routes are in teachers.js in routes folder 
 * You Can use 
