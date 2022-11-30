@@ -3,9 +3,9 @@
 * You can test API calls using Postman
 * All the routes are in teachers.js in routes folder 
 * You Can use 
-    get : to get the required teacher information
-    post: to create a new teacher
-    patch: to update any information of a teacher
+    get : to get the required teacher information, 
+    post: to create a new teacher, 
+    patch: to update any information of a teacher, 
     delete: to delete a teacher
 
 
